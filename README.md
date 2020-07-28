@@ -12,5 +12,6 @@
 - Leaflet for map
 - Chartjs library used for responsive graph
 - Numeral
+- Popup
 
 # To Run the webapp visit https://covid-tracker-1e51c.web.app
