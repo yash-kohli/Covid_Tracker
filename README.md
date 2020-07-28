@@ -4,7 +4,7 @@
 - Responsive webapp ,with information displayed on graph,marked country wise on map.
 - Firebase used for hosting
 
-##Technology Used
+## Technology Used
 - Reactjs
 - API used from disease.sh
 - Firebase
