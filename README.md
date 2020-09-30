@@ -15,3 +15,7 @@
 - Popup
 
 # To Run the webapp visit https://covid-tracker-1e51c.web.app
+
+![](images_covid/Screenshot%20(54).png)
+
+![](images_covid/Screenshot%20(55).png)
